@@ -2,6 +2,7 @@
 
 ### Departamento  
 Armazena informações sobre os departamentos da empresa.  
+
 ```sql
 CREATE TABLE Departamento (
   idDepartamento INT NOT NULL AUTO_INCREMENT,

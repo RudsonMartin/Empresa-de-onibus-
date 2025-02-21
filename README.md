@@ -33,7 +33,7 @@ O banco de dados é composto pelas seguintes tabelas:
 ## 🚀 Como Utilizar  
 1. Clone o repositório:  
 ```bash
-git clone https://github.com/seu-usuario/nome-do-repositorio.git
+git clone https://github.com/RudsonMartin/Empresa-de-onibus.git
 ```
 2. Importe o arquivo SQL para o seu banco de dados MySQL.  
 3. Configure seu ambiente de desenvolvimento.  

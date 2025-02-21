@@ -52,7 +52,7 @@ A documentação detalhada de cada tabela pode ser encontrada em [documentacao_b
 ---  
 
 ## 🛠️ Autor e Contribuição  
-Feito com ❤️ por [Seu Nome].  
+Feito com ❤️ por [Rudson Martins Botelho E Willan Barbosa Roscoe].  
 Contribuições são bem-vindas! Sinta-se à vontade para fazer um fork do projeto e abrir um Pull Request.  
 
 ---  
